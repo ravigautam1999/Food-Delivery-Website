@@ -1,0 +1,22 @@
+#header{
+    width: 100%;
+}
+.col-sm-6 img{
+
+}
+
+.container{
+        max-width: 960px;
+        margin: 0 auto;
+        background: transparent;
+        font-size: 25px;
+        padding: 25px;
+}
+
+.parallax{
+
+background: url(bg_image.png) no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 800px;
+}
